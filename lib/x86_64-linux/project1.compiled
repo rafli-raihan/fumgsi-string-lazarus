@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1658375746"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -gw2 -godwarfsets -gl -l -vewnhibq &quot;-Fi/home/rafli/lazarus project/G String/lib/x86_64-linux&quot; -Fu/home/rafli/.lazarus/lib/units/x86_64-linux/gtk2 -Fu/home/rafli/.lazarus/lib/LCLBase/units/x86_64-linux -Fu/home/rafli/.lazarus/lib/freetypelaz/lib/x86_64-linux -Fu/home/rafli/.lazarus/lib/LazUtils/lib/x86_64-linux -Fu/home/rafli/.lazarus/lib/units/x86_64-linux &quot;-Fu/home/rafli/lazarus project/G String/&quot; &quot;-FU/home/rafli/lazarus project/G String/lib/x86_64-linux/&quot; &quot;-FE/home/rafli/lazarus project/G String/&quot; &quot;-o/home/rafli/lazarus project/G String/project1&quot; -dLCL -dLCLgtk2 project1.lpr"/>
+</CONFIG>
