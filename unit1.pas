@@ -259,3 +259,6 @@ end;
 
 end.
 
+{NOTES}
+{'' artinya Editnya kosong, gaada isinya. Misal If Edit1.Text = '' berarti itu Edit 1 nya kosong.}
+{perhatikan tiap begin sama end jgn sampe ada begin yg nyangkut.}
